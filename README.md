@@ -9,7 +9,7 @@ In this project I created a simple pastebin Code highlighting Web API.
 
 - Pipenv (Virtual environment)
 
-  - Install pipenv  
+  - Install pipenv
      `pip install pipenv`
   - run
 
@@ -27,3 +27,7 @@ In this project I created a simple pastebin Code highlighting Web API.
   - Use `coreapi cli` to get the available API schema.
 
   - `coreapi` is included in the virtual environment.
+
+
+ ###### Please check ```django-way``` branch for Function-Based, Class-Based, and Generic views implementation.
+
