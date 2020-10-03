@@ -1,4 +1,5 @@
 # Django Rest Framework
+[![DeepSource](https://deepsource.io/gh/imkaka/django-rest-api.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/imkaka/django-rest-api/?ref=repository-badge)
 
 A Django REST Framework(DRF) project following the official tutorial.
 DRF is the framework we use to build the REST API in django which is the most important third-party package included.
